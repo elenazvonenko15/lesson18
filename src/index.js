@@ -34,7 +34,6 @@ function createTable() {
             row.append(cell);
         }
     }
-
-
 }
+
 createTable();
